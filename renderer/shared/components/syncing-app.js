@@ -126,6 +126,7 @@ function SyncingIdentity() {
           h={1}
           mt="11px"
         />
+        <h3>{t('If this is not your identity, import your own on Settings page. Don’t wait for synchronization to finish.')}</h3>
       </section>
       {wrongTime && (
         <section>
