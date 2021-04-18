@@ -600,4 +600,5 @@
   "Submit the form to deactivate your delegation status.": "Submit the form to deactivate your delegation status.",
   "Submit the form to deactivate your mining status. You can activate it again afterwards.": "Submit the form to deactivate your mining status. You can activate it again afterwards.",
   "You can disable delegation at the next epoch only": "You can disable delegation at the next epoch only"
+  "If this is not your identity, import your own on Settings page. Don’t wait for synchronization to finish."
 }
